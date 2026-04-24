@@ -1,0 +1,28 @@
+# Naqaa — Netlify Redirects
+
+# Main pages
+/services             /services.html                           200
+/services/            /services.html                           200
+/blog                 /blog.html                               200
+/blog/                /blog.html                               200
+/terms                /terms.html                              200
+/privacy              /privacy.html                            200
+/refund               /refund.html                             200
+/accessibility        /accessibility.html                      200
+/faq                  /faq.html                                200
+/cancellation         /refund                                  301
+
+# Blog article
+/blog/افضل-شركة-تنظيف-منازل-امنة-للاطفال/    /blog/افضل-شركة-تنظيف-منازل-امنة-للاطفال/index.html    200
+
+# Service pages
+/services/تنظيف-المنازل-والفلل          /services/تنظيف-المنازل-والفلل.html          200
+/services/تنظيف-المجالس-والكنب          /services/تنظيف-المجالس-والكنب.html          200
+/services/تنظيف-وعزل-الخزانات           /services/تنظيف-وعزل-الخزانات.html           200
+/services/تنظيف-المكيفات-والستائر       /services/تنظيف-المكيفات-والستائر.html       200
+/services/تنظيف-المسابح                  /services/تنظيف-المسابح.html                  200
+/services/مكافحة-الحشرات-والقوارض       /services/مكافحة-الحشرات-والقوارض.html       200
+/services/تنظيف-الشركات-والمكاتب        /services/تنظيف-الشركات-والمكاتب.html        200
+/services/التنظيف-العميق-الشامل         /services/التنظيف-العميق-الشامل.html         200
+/services/التنظيف-الأخضر-الصديق-للبيئة /services/التنظيف-الأخضر-الصديق-للبيئة.html 200
+/services/حماية-المجالس-بتقنية-النانو   /services/حماية-المجالس-بتقنية-النانو.html   200
